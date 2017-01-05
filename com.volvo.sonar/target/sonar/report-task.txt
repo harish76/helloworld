@@ -1,0 +1,5 @@
+projectKey=sonar:com.volvo.sonar
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/sonar:com.volvo.sonar
+ceTaskId=AVlrVZZFWcfOuo7hA9D6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVlrVZZFWcfOuo7hA9D6
